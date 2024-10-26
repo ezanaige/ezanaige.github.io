@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ezanaige.github.io/sitemap_index.ezanaige
